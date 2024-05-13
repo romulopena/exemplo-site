@@ -1,6 +1,6 @@
-        div h1{
+        header{
             position: stick;
-            top: 0px;
+            bottom: 0px;
             background-color: aqua;
             color: red;
         }
